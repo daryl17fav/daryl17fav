@@ -6,7 +6,7 @@
 
 🛠️ Tools of the trade:
 - 💻 Frontend: HTML, CSS, Flutter, Vue.js (currently learning!)
-- 🛠️ Backend-ish: Laravel, PHP, SQL (CRUD baddie alert)
+- 🛠️ Backend-ish: PHP, SQL (CRUD baddie alert)
 - 🎨 Design: UI/UX focus, obsessed with clean visuals + meaningful interactions
 - 🚀 Projects: Enoteexam, trip management systems, CRUD platforms & more!
 
